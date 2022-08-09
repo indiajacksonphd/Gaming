@@ -3,6 +3,7 @@
 
 
 [![LGPHY ARCADE](https://www.lgphy.com/Prospectus/lgphy_arcade_github_thumbnail.png)](https://www.youtube.com/embed/9uDO5bDE554 "LGPHY ARCADE")
+<img width="1559" alt="lgphy_arcade_github_thumbnail" src="https://user-images.githubusercontent.com/110256537/183712541-fa4e86f6-3d12-476a-8d64-8877c58388e2.png">
 
 
 <!--
