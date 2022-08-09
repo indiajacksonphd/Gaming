@@ -1,6 +1,10 @@
 # LGPHY ARCADE
 
-https://www.lgphy.com/gamepreview-2.mp4
+
+
+
+https://user-images.githubusercontent.com/110256537/183703842-66a9c8f6-676f-4c0e-92a3-b35d6949553c.mov
+
 
 
 Here are the links to my first mobile game: LGPHY Arcade
