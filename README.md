@@ -4,11 +4,7 @@
 
 [![LGPHY ARCADE](https://user-images.githubusercontent.com/110256537/183712541-fa4e86f6-3d12-476a-8d64-8877c58388e2.png)](https://youtu.be/9uDO5bDE554 "LGPHY ARCADE")
 
-
-
-https://user-images.githubusercontent.com/110256537/183713897-73b2fda0-a53f-42ad-9770-4fe8c6206856.mov
-
-
+https://youtu.be/9uDO5bDE554
 
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9uDO5bDE554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
