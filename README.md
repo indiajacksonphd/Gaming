@@ -2,7 +2,7 @@
 
 
 
-[![LGPHY ARCADE](https://www.lgphy.com/Prospectus/lgphy_arcade_github_thumbnail.png)](https://www.youtube.com/embed/9uDO5bDE554)
+[![LGPHY ARCADE](https://www.lgphy.com/Prospectus/lgphy_arcade_github_thumbnail.png)](https://www.youtube.com/embed/9uDO5bDE554 "LGPHY ARCADE")
 
 
 <!--
