@@ -1,5 +1,6 @@
 # LGPHY ARCADE
 
+![lgphy_arcade_youtube_github_thumbnail](https://user-images.githubusercontent.com/110256537/183979472-028ee06d-de5f-4d5f-bcd3-15679ae849df.png)
 
 
 [![LGPHY ARCADE](https://user-images.githubusercontent.com/110256537/183712541-fa4e86f6-3d12-476a-8d64-8877c58388e2.png)](https://youtu.be/9uDO5bDE554 "LGPHY ARCADE")
